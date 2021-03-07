@@ -1,6 +1,6 @@
 # Welcome to GameStore React App
 
-Esse projeto pode ser acessado no seguinte link vercel:
+Esse projeto pode ser acessado no seguinte link vercel: https://supera-challenge-iota.vercel.app/
 
 ## O projeto
 
