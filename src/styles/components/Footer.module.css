@@ -1,0 +1,49 @@
+.container{
+  display: flex;
+  background-color: var(--black);
+  height: 50px;
+  justify-content: flex-end;
+  position: fixed;
+  bottom: 0;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.containerInformation {
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  width: 50%;
+}
+
+.containerInformation p{
+  font-weight: 700;
+  margin-left: 30px;
+}
+
+.containerInformation button{
+  background-color: var(--green);
+  border: none;
+  border-radius: 5px;
+  color: var(--white);
+  font-weight: 700;
+  margin-left: 30px;
+  padding: 10px 30px;
+}
+
+@media(max-width: 1080px) {
+  .container {
+    flex-direction: row;
+    width: 100vw;
+  }
+
+  .containerInformation { 
+  width: 100%;
+  }
+
+  .containerInformation button{  
+  border-radius: 5px;
+  margin: 0 5px;
+  padding: 6px 10px;
+ }
+}

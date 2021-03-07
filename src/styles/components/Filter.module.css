@@ -1,0 +1,20 @@
+.container{
+  background-color: rgba(245, 245, 245, 0.904);
+  box-shadow: 1px 1px 5px white;
+  display: flex;
+  height: 2rem; 
+  position: fixed;
+  top: 7.5rem;
+  width: 100%;
+}
+
+.information{
+  align-items: center;
+  display: flex;
+  margin-left: 20px;
+  width: 30%;
+}
+
+.information select{
+  margin-left: 10px;
+}

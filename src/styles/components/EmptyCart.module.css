@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container h1{
+  color: var(--white);
+  text-align: center;
+}
+
+.container button{
+  background-color: var(--green);
+  border: none;
+  border-radius: 5px;
+  color: var(--white);
+  font-weight: 700;
+  margin: 30px;
+  padding: 10px 30px;
+}
