@@ -2,6 +2,10 @@
 
 Esse projeto pode ser acessado no seguinte link vercel: https://supera-challenge-iota.vercel.app/
 
+#### Desktop / Mobile
+
+<img src="./game-store-images/desktop-main.png" width=600px /><><img src="./game-store-images/mobile-main.png" width=180px />
+
 ## O projeto
 
 A proposta do projeto é montar um ecommerce usando react para web, consumindo dados de um arquivo JSON enviado pelo desafiante.
